@@ -12,9 +12,11 @@ By contributing, you help all users of the integration get more accurate and use
 
 The repository contains plain text files, one for each type of additional data. Initially, this includes discount programs:
 
-* `Woolworths.txt`: Contains station codes for Ampol and EG Ampol stations that accept the Woolworths 6c/L discount.  
+* `Woolworths.txt`: Contains station codes for Ampol and EG Ampol stations that accept the Woolworths 4c/L discount.  
 * `Coles.txt`: Contains station codes for Shell and Coles Express stations that accept the Coles 4c/L discount.  
 * `RACT.txt`: Contains station codes for Ampol stations that accept the RACT 6c/L discount.
+
+Note. Fuel discount prices configurable in the application as I am unsure on the exact current discount on Supermarket discounts.
 
 The format is simply one valid station code per line. As more data types are added to the integration (e.g., stations with air pumps), new files will be created here.
 
