@@ -22,7 +22,7 @@ The format is simply one valid station code per line. As more data types are add
 
 The station "code" is a unique identifier provided by the FuelCheck API for each service station. The easiest way to find the code for a specific station is to add it as a "Favourite Station" in the Tasmanian Fuel Prices integration options and check its attributes.  
  OR  
-In the FuelCheck Tas app ([Android](https://play.google.com/store/apps/details?id=au.gov.nsw.onegov.fuelchecktas&hl=en) | [IOS](https://apps.apple.com/au/app/id1524416815)) select a Petrol Station and open it to see all the prices. In the top right is a share button, press the share button, this will contain a link to that exact petrol station, the link will look like this [https://fuelcheck.tas.gov.au/app/123](https://fuelcheck.tas.gov.au/app/123) with 123 being your station code
+In the FuelCheck Tas app ([Android](https://play.google.com/store/apps/details?id=au.gov.nsw.onegov.fuelchecktas&hl=en) | [IOS](https://apps.apple.com/au/app/id1524416815)) select a Petrol Station and open it to see all the prices. In the top right is a share button, press the share button, this will contain a link to that exact petrol station, the link will look like this [https://fuelcheck.tas.gov.au/app/s/123](https://fuelcheck.tas.gov.au/app/s/123) with 123 being your station code
 
 ## **How to Contribute**
 
