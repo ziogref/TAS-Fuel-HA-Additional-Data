@@ -1,2 +1,19 @@
-33 #EG Fuel Clarence St
-29
+34 #Huonville
+39 #New Norfolk
+36 #Kingston
+32 #Glenorchy
+24 #Ampol Foodary Hobart Macquarie St
+25 #Ampol Foodary Hobart South
+31 #Claremont
+29 #Ampol Foodary Sandy Bay
+28 #Ampol Foodary New Town
+26 #U-Go Lindisfarne
+33 #Howrah
+41 #Sorell
+40 #Prospect Vale
+35 #Kingsmeadows
+38 #Mowbray
+37 #Legana
+42 #Ulverstone
+30 #Burnie
+43 #Wynyard
