@@ -7,7 +7,6 @@
 31 #Claremont
 29 #Ampol Foodary Sandy Bay
 28 #Ampol Foodary New Town
-26 #U-Go Lindisfarne
 33 #Howrah
 41 #Sorell
 40 #Prospect Vale
@@ -17,3 +16,5 @@
 42 #Ulverstone
 30 #Burnie
 43 #Wynyard
+
+#26 #U-Go Lindisfarne exluded by manual verification. No discount offered
