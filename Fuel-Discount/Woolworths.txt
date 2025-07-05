@@ -2,13 +2,13 @@
 39 #New Norfolk
 36 #Kingston
 32 #Glenorchy
-24 #Ampol Foodary Hobart Macquarie St
-25 #Ampol Foodary Hobart South
+24 #Ampol Foodary Hobart Macquarie St (Verified on-site)
+25 #Ampol Foodary Hobart South (Verified on-site)
 31 #Claremont
 29 #Ampol Foodary Sandy Bay
 28 #Ampol Foodary New Town
-33 #Howrah
-41 #Sorell
+33 #EG Clarence St, Howrah (Verified on-site)
+41 #EG Sorell (Verified on-site)
 40 #Prospect Vale
 35 #Kingsmeadows
 38 #Mowbray
@@ -16,5 +16,3 @@
 42 #Ulverstone
 30 #Burnie
 43 #Wynyard
-
-#26 #U-Go Lindisfarne exluded by manual verification. No discount offered
