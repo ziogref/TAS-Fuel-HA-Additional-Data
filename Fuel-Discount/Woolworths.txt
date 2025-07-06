@@ -1,18 +1,32 @@
-34 #Huonville
-39 #New Norfolk
-36 #Kingston
-32 #Glenorchy
-24 #Ampol Foodary Hobart Macquarie St (Verified on-site)
-25 #Ampol Foodary Hobart South (Verified on-site)
-31 #Claremont
-29 #Ampol Foodary Sandy Bay
+#Extracted from the Woolworths Website but unconfirmed (Ampol)
 28 #Ampol Foodary New Town
-33 #EG Clarence St, Howrah (Verified on-site)
-41 #EG Sorell (Verified on-site)
-40 #Prospect Vale
-35 #Kingsmeadows
-38 #Mowbray
-37 #Legana
-42 #Ulverstone
+29 #Ampol Foodary Sandy Bay
+
+#Extracted from the Woolworths Website but unconfirmed (EG)
 30 #Burnie
+31 #Claremont
+32 #Glenorchy
+34 #Huonville
+35 #Kingsmeadows
+36 #Kingston
+37 #Legana
+38 #Mowbray
+39 #New Norfolk
+40 #Prospect Vale
+42 #Ulverstone
 43 #Wynyard
+
+#Confirmed Site by myself
+24 #Ampol Foodary Hobart Macquarie St
+25 #Ampol Foodary Hobart South
+33 #Howrah
+41 #Sorell
+
+#Listed on Woolworths but does not accept Discount
+#26 #U-Go Lindisfarne (as of 30/06/2025)
+
+#Note. Information has been scraped from https://www.woolworths.com.au/shop/storelocator
+#More Specifically https://www.woolworths.com.au/apis/ui/StoreLocator/Stores
+#Gemini was then used to strip all the unnecessary details then match it up with the Station ID from the NSW gov API
+#So while Gemini being an AI and AI does get things wrong, I am using it as base since I can't visit all sites.
+#Please Log a pull request if you can provide more accurate information and if you personally verified it by going to the station. 
