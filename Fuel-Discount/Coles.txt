@@ -1,2 +1,37 @@
-49
-48
+#Extracted from the Coles Website but unconfirmed
+
+44 #SHELL REDDY EXPRESS BLACKMANS BAY
+45 #SHELL REDDY EXPRESS BRIGHTON (TAS)
+46 #SHELL REDDY EXPRESS DEVONPORT
+47 #SHELL REDDY EXPRESS GLENORCHY
+48 #SHELL REDDY EXPRESS HOBART
+49 #SHELL REDDY EXPRESS HOWRAH
+50 #SHELL REDDY EXPRESS INVERMAY
+51 #SHELL REDDY EXPRESS LAUNCESTON
+52 #SHELL REDDY EXPRESS LAUNCESTON BATHURST ST
+53 #SHELL REDDY EXPRESS MOONAH
+54 #SHELL REDDY EXPRESS NEW NORFOLK
+55 #SHELL REDDY EXPRESS NEWSTEAD
+56 #SHELL REDDY EXPRESS SANDY BAY
+57 #SHELL REDDY EXPRESS SMITHTON
+58 #SHELL REDDY EXPRESS SORELL
+117 #SHELL LONGFORD
+164 #SHELL DUNALLEY
+165 #SHELL FOUR WAYS
+172 #SHELL TURNERS BEACH
+173 #SHELL SCAMANDER
+203 #SHELL WEST LAUNCESTON
+210 #SHELL BUCKLAND STORE
+225 #SHELL HUETTS & EASTLEY
+231 #SHELL RISDON VALE
+240 #SHELL CAMPANIA
+
+#Confirmed Site by myself
+
+#Listed on Coles but does not accept Discount
+
+#Note. Information has been scraped from https://www.reddyexpress.com.au/stores
+#More Specifically https://data.nowwhere.com.au/v3.2/features/SHE_FuelLocations (copied API response from developer console) 
+#Gemini was then used to strip all the unnecessary details then match it up with the Station ID from the NSW gov API
+#So while Gemini being an AI and AI does get things wrong, I am using it as base since I can't visit all sites.
+#Please Log a pull request if you can provide more accurate information and if you personally verified it by going to the station. 
