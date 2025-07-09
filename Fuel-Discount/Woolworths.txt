@@ -11,7 +11,7 @@
 36 #Kingston
 37 #Legana
 38 #Mowbray
-39 #New Norfolk
+39 #New Norfolk potentially doesnt accecpt
 40 #Prospect Vale
 42 #Ulverstone
 43 #Wynyard
