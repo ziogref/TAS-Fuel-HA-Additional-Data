@@ -1,2 +1,293 @@
-33
-41
+#Confirmation by Humans that have Tyre Air Facilities
+24 #Ampol Hobart Macquarie St
+25 #Ampol Hobart South
+10 #BP Kingston Tas
+33 #EG Ampol Howrah
+
+#Confirmed by Humans that DO NOT have Tyre Air Facilities
+#367 #Shell Tas Petroleum Cambridge (unmanned)
+
+#Confirmed Stations with Tyre Air Facilities (AI)
+5 #BP Brooker
+6 #BP Cambridge
+11 #BP Launceston
+12 #BP Lindisfarne
+14 #BP Moonah
+15 #BP Newnham
+16 #BP North Terrace
+17 #BP Riverside
+19 #BP Ulverstone
+22 #Ampol Foodary Eastlands
+23 #Ampol Foodary Glenorchy
+28 #Ampol Foodary New Town
+29 #Ampol Foodary Sandy Bay
+30 #EG Ampol Burnie
+31 #EG Ampol Claremont
+32 #EG Ampol Glenorchy
+34 #EG Ampol Huonville
+35 #EG Ampol Kingsmeadows
+36 #EG Ampol Kingston
+37 #EG Ampol Legana
+38 #EG Ampol Mowbray
+39 #EG Ampol New Norfolk
+40 #EG Ampol Prospect Vale
+41 #EG Ampol Sorell
+42 #EG Ampol Ulverstone
+43 #EG Ampol Wynyard
+44 #Coles Express Blackmans Bay
+45 #Coles Express Brighton
+46 #Coles Express Devonport
+47 #Coles Express Glenorchy
+48 #Coles Express Hobart
+49 #Coles Express Howrah
+50 #Coles Express Invermay
+51 #Coles Express Launceston
+52 #Coles Express Launceston Bathurst St
+53 #Coles Express Moonah
+54 #Coles Express New Norfolk
+55 #Coles Express Newstead
+56 #Coles Express Sandy Bay
+57 #Coles Express Smithton
+58 #Coles Express Sorell
+77 #United Burnie
+80 #United Devonport
+89 #United Kingston
+91 #United Legana
+95 #United North Hobart
+96 #United Paterson Street
+99 #United Sandy Bay
+106 #United Sorell
+108 #United Tasman
+111 #United Wynyard
+125 #Ampol Campbell Town
+127 #Ampol East Devonport
+130 #Ampol Glen Dhu
+141 #Ampol William Street
+144 #Ampol Brooker
+146 #Ampol Sorell Service Station
+150 #Independent Bob And Tom's Hampden Road Service Station
+153 #Independent Lindisfarne Service Centre
+172 #Shell Turners Beach
+177 #Ampol MOOD FOOD Huonville
+179 #Ampol MOOD FOOD Moonah
+180 #Ampol MOOD FOOD Rokeby
+181 #Ampol MOOD FOOD Claremont
+182 #Ampol MOOD FOOD New Norfolk
+184 #Ampol BENNETTS PETROLEUM Lenah Valley
+185 #Ampol MOOD FOOD Grand Central
+189 #Ampol Montrose
+196 #BP Claremont
+203 #Shell West Launceston
+204 #Independent Berriedale Service Centre
+220 #Ampol Terrylands Service Station
+225 #Shell Huetts Service Station
+233 #BP Youngtown (with 24 hour payment)
+253 #VEER Tas United Wivenhoe Service Station With RACT Fuel Discount
+20020 #Ampol MOOD FOOD Latrobe
+20021 #Ampol MOOD FOOD Burnie
+20035 #OTR Devonport Formby Road
+
+#Confirmed Stations without Tyre Air Facilities (AI)
+#59 #Lowes BP Bell Bay (unmanned terminal)
+#60 #Lowes Bp Brighton Opt
+#61 #Lowes Bp Burnie (Wivenhoe) Opt
+#62 #Lowes Bp Deloraine Opt
+#63 #Lowes Bp Devonport (Quoiba) Opt
+#66 #Lowes Bp Launceston (Gleadow Street) Opt
+#70 #Lowes Bp Smithton Opt
+#72 #Lowes BP Triabunna OPT(unmanned)
+#73 #Lowes Bp Zeehan Opt
+#102 #United Selfs Point Ufill
+#132 #Ampol Invermay(Unmanned)
+#158 #Independent Tas Petroleum Fingal (unmanned)
+#159 #Independent Tas Petroleum Launceston (Unmanned)
+#160 #Independent Tas Petroleum Smithton (Unmanned)
+#166 #Shell Tas Petroleum Bridgewater(unmanned)
+#167 #Shell Tas Petroleum Burnie River Rd (unmanned)
+#168 #Shell Tas Petroleum Burnie Wharf (unmanned)
+#169 #Shell Tas Petroleum East Devonport(Unmanned)
+#170 #Shell Tas Petroleum Scottsdale (Unmanned)
+#171 #Shell Tas Petroleum Westbury (Unmanned)
+#211 #Tas Petroleum Moonah (unmanned)
+#372 #Tas Petroleum St Helens (Unmanned)
+#377 #Valley Fuel (unmanned site)
+#382 #Ampol BENNETTS PETROLEUM Cambridge - Unmanned
+#388 #Tas Petroleum Connector Park (Unmanned)
+#390 #BENNETTS PETROLEUM Bagdad - Unmanned
+#391 #BENNETTS PETROLEUM Huonville - Unmanned
+#392 #BENNETTS PETROLEUM Geeveston - Unmanned
+#394 #BENNETTS PETROLEUM Triabunna Marina - Unmanned
+#404 #Ampol BENNETTS PETROLEUM Kempton - Unmanned
+#405 #Tas Petroleum Rocherlea (unmanned)
+#406 #Georgetown-ufill (unmanned)
+#409 #NK Energy Co Kingston Beach (unmanned site)
+#414 #NK Energy Co Beaconsfield (Unmanned)
+#20015 #TAS Petroleum Wynyard(Unmanned)
+#20016 #Tas Petroleum Spreyton (Unmanned)
+#20019 #Tas Petroleum Queenstown (unmanned)
+#20036 #Caltex Devonport (TAS Petroleum) Unmanned
+
+#Stations with Uncertain Availability (AI)
+4 #BP Brighton 80%
+7 #BP Devonport 80%
+8 #BP Hobart Airport 80%
+9 #BP Huonville 80%
+13 #BP Margate 70%
+18 #BP St Helens 70%
+20 #Ampol Hill Street Lauderdale 70%
+26 #U- Go Lindisfarne (Self-Serve) 20%
+27 #Ampol Foodary Midway Point 80%
+71 #Lowes Bp Strahan Wharf Opt 10%
+74 #United Beaconsfield 60%
+76 #United Bicheno 60%
+78 #United Camdale Ufill 10%
+79 #United Claremont 70%
+84 #United Exeter 60%
+85 #United Gagebrook 60%
+86 #United George Town Central 70%
+87 #United Hagley Ufill 10%
+88 #United Hamilton Ufill 10%
+90 #United Latrobe 70%
+92 #United Longford 70%
+93 #United Lutana 70%
+94 #United Newnham 70%
+97 #United Perth South 70%
+98 #United Queenstown Ufill 10%
+100 #United Sassafras 70%
+101 #Astron Scottsdale Ufill 10%
+103 #United Shearwater 70%
+105 #United Smithton Ufill 10%
+107 #United St Helens 70%
+109 #United Ulverstone Ufill 10%
+114 #BP Oatlands 60%
+116 #BP Strahan 50%
+117 #Kings Bridge Service Station 50%
+118 #BP Cygnet 60%
+119 #Rocky Cape Roadhouse 60%
+123 #AMPOL OUSE 50%
+124 #Ampol Westbury 70%
+126 #Ampol Campbell Town South 70%
+128 #Ampol Exeter 60%
+129 #Ampol Georgetown 70%
+133 #Ampol Longford 70%
+135 #Ampol Penguin 60%
+136 #Poatina Service Station 30%
+137 #Ampol Sheffield 60%
+138 #Ampol Smithton 70%
+139 #Ampol Spreyton 70%
+142 #Ampol Wivenhoe 70%
+145 #Ampol Grove Store 40%
+148 #Bushy Park Roadhouse 40%
+149 #Ampol Lagoon General Store 50%
+151 #Astron Bothwell Roadhouse 50%
+152 #TAS Petroleum Detention River Roadhouse 60%
+154 #Independent Middleton General Store 30%
+155 #Ampol Murdunna Roadhouse 50%
+157 #Sandfly General Store 30%
+161 #Independent Derrico Automotive 80%
+164 #Shell Dunalley 60%
+165 #Shell Fourways 70%
+173 #Shell Scamander 60%
+178 #Ampol BENNETTS PETROLEUM Snug 70%
+183 #Ampol MOOD FOOD Kempton 80%
+186 #Ampol BENNETTS PETROLEUM Swansea 70%
+187 #Ampol MOOD FOOD MILK BAR Regent Street 60%
+191 #Ampol Highclere Roadhouse 50%
+192 #Independent Chudleigh General Store 40%
+193 #BP Service Station 60%
+194 #Ampol St. Marys 50%
+195 #Independent Dodges Ferry Hill Street Grocer 40%
+198 #United Bardenhagen Hardware And Rural Supplies 30%
+199 #United Forth Village Store 40%
+200 #Independent Ringarooma Garage 40%
+206 #BP Kettering Central Store 50%
+209 #Fuel On Goldie 70%
+210 #Shell Buckland Store 40%
+212 #United Bridgewater 70%
+213 #United Launceston Breadalbane 80%
+214 #United York Park 70%
+215 #BP Deloraine 80%
+216 #BP Mahoneys Bp Rosebery 50%
+217 #Independent Bangalee Store 30%
+222 #Independent Port Cygnet Fuel 20%
+226 #Independent Railton Motor & Tyre Service 80%
+227 #Ampol Carrick 60%
+228 #Ampol IAJ Motors 70%
+230 #Ampol Lewisham service centre 60%
+231 #Shell Risdon Vale 70%
+234 #Independent Iluka General Store 40%
+235 #Ampol BENNETTS PETROLEUM Copping Roadhouse 70%
+239 #Ampol Ulverstone 70%
+240 #Campania Self Serve 30%
+245 #Great Lake General Store 30%
+246 #Tasman Fuel, Takeaway and Convenience Store 50%
+247 #Eastside Motors (Tas) PTY LTD 70%
+248 #Port Arthur General Store 40%
+249 #Gawler General Store 40%
+252 #Bracknell Roadhouse 40%
+254 #Lady Barron Store 20%
+255 #Mole Creek Servo 24/7 20%
+362 #United Brighton 70%
+364 #Gladstone General Store & Post Office 30%
+366 #Hillcrest Tourist Park 20%
+368 #King Island Motors 70%
+369 #Arthurs Lake Roadhouse 40%
+370 #J&N Car Care - Triabunna Service Station 70%
+373 #South Spreyton Store 40%
+374 #Ampol Richmond 50%
+375 #BP TARLETON STREET 80%
+378 #Ampol Cradle Mountain 40%
+379 #Kalangadoo Store 30%
+380 #Ampol Epping Forest 70%
+381 #Stanley Supermarket 30%
+383 #Waratah Roadhouse 30%
+384 #Peninsula Hardware 30%
+385 #Flinders Island Fuel 20%
+386 #Westerway Roadhouse 40%
+389 #Astron New Norfolk 60%
+395 #The Hungry Wombat Cafe 40%
+398 #Xpress eats 50%
+401 #THE OPOSSUM BAY STORE 30%
+403 #Bothwell SuperStore 40%
+407 #South Arm Store 30%
+408 #Sidmouth service station 40%
+410 #Astron 60%
+412 #Pipers River General Store 40%
+413 #Scamander Supermarket 40%
+415 #BP Lauderdale 70%
+20002 #Astron East Devonport 60%
+20005 #Ampol Stony Rise 70%
+20006 #Astron West Ulverstone 60%
+20007 #Adventure Bay General Store 30%
+20008 #Ampol Westbury 70%
+20009 #Ampol Wynyard 70%
+20010 #Ampol Scottsdale 70%
+20011 #Astron Zeehan 50%
+20012 #Marrawah General Store 30%
+20013 #United Elizabeth Town 70%
+20014 #United Geeveston 60%
+20017 #GO Camdale 24/7 20%
+20018 #AMPOL SASSAFRAS 70%
+20022 #Tas Petroleum Mt Direction 60%
+20023 #Astron Triabunna 50%
+20024 #Tas Petroleum Bell Bay 20%
+20025 #Tas Petroleum Scottsdale 70%
+20026 #Tas Petroleum Swansea 60%
+20027 #Ampol Queenstown 60%
+20028 #Nunamara Hub 30%
+20029 #Astron Wentworth 70%
+20031 #Astron Ridgley Roadhouse 50%
+20032 #Ampol Colebrook 40%
+20033 #Bonney Energy Deloraine 20%
+20034 #Bonney Energy Invermay 20%
+20037 #Bonney Energy Bell Bay 20%
+20038 #FTR primrose sands servo 40%
+20039 #Bonney Energy Legerwood 30%
+20040 #Ampol Somerset 70%
+20041 #Astron Sheffield 60%
+
+#Note. This list regarding tyre inflation availability is a best-effort guide.
+#Gemini compiled this information from various online sources and user contributions.
+#Gemini was used to analyze details and to generate confidence scores for unconfirmed stations.
+#As this process relies on an AI and data that can become outdated. I cannot personally visit every station to guarantee its accuracy.
+#Please log a pull request to submit updates, especially if you have personally verified the information at a station.
