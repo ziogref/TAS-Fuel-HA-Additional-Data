@@ -6,6 +6,7 @@
 
 #Confirmed by Humans that DO NOT have Tyre Air Facilities
 #367 #Shell Tas Petroleum Cambridge (unmanned)
+#26 #U- Go Lindisfarne (Self-Serve) 20% - most likely doesnt have it
 
 #Confirmed Stations with Tyre Air Facilities (AI)
 5 #BP Brooker
@@ -135,7 +136,6 @@
 13 #BP Margate 70%
 18 #BP St Helens 70%
 20 #Ampol Hill Street Lauderdale 70%
-26 #U- Go Lindisfarne (Self-Serve) 20%
 27 #Ampol Foodary Midway Point 80%
 71 #Lowes Bp Strahan Wharf Opt 10%
 74 #United Beaconsfield 60%
