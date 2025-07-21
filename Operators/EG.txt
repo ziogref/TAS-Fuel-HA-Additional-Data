@@ -1,0 +1,16 @@
+30 # EG Ampol Burnie
+31 # EG Ampol Claremont
+32 # EG Ampol Glenorchy
+33 # EG Ampol Howrah
+34 # EG Ampol Huonville
+35 # EG Ampol Kingsmeadows
+36 # EG Ampol Kingston
+37 # EG Ampol Legana
+38 # EG Ampol Mowbray
+39 # EG Ampol New Norfolk
+40 # EG Ampol Prospect Vale
+41 # EG Ampol Sorell
+42 #  EG Ampol Ulverstone
+43 # EG Ampol Wynyard
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

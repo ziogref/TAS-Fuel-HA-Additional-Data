@@ -1,0 +1,8 @@
+164 # Shell Dunalley
+165 # Shell Fourways
+172 # Shell Turners Beach
+173 # Shell Scamander
+203 # Shell West Launceston
+231 # Shell Risdon Vale
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

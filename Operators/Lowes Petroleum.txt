@@ -1,0 +1,11 @@
+59 # Lowes BP Bell Bay (unmanned terminal)
+60 # Lowes Bp Brighton Opt
+61 # Lowes Bp Burnie (Wivenhoe) Opt
+62 # Lowes Bp Deloraine Opt
+66 # Lowes Bp Launceston (Gleadow Street) Opt
+70 # Lowes Bp Smithton Opt
+71 # Lowes Bp Strahan Wharf Opt
+73 # Lowes Bp Zeehan Opt
+415 # BP Lauderdale
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

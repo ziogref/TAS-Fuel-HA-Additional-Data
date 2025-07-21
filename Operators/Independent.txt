@@ -1,0 +1,64 @@
+117 # Kings Bridge Service Station
+119 # Rocky Cape Roadhouse
+136 # Poatina Service Station
+145 # Ampol Grove Store
+148 # Bushy Park Roadhouse
+149 # Ampol Lagoon General Store
+150 # Independent Bob And Tom's Hampden Road Service Station
+153 # Independent Lindisfarne Service Centre
+154 # Independent Middleton General Store
+155 # Ampol Murdunna Roadhouse
+157 # Sandfly General Store
+161 # Independent Derrico Automotive
+191 # Ampol Highclere Roadhouse
+192 # Independent Chudleigh General Store
+194 # Ampol St. Marys
+195 # Independent Dodges Ferry Hill Street Grocer
+198 # United Bardenhagen Hardware And Rural Supplies
+199 # United Forth Village Store
+200 # Independent Ringarooma Garage
+204 # Independent Berriedale Service Centre
+206 # BP Kettering Central Store
+210 # Shell Buckland Store
+222 # Independent Port Cygnet Fuel
+225 # Shell Huetts Service Station
+226 # Independent Railton Motor & Tyre Service
+228 # Ampol IAJ Motors
+230 # Ampol Lewisham service centre
+234 # Independent Iluka General Store
+240 # Campania Self Serve
+245 # Great Lake General Store
+246 # Tasman Fuel, Takeaway and Convenience Store
+247 # Eastside Motors (Tas) PTY LTD
+248 # Port Arthur General Store
+249 # Gawler General Store
+252 # Bracknell Roadhouse
+254 # 	 Lady Barron Store
+255 # Mole Creek Servo 24/7
+364 # Gladstone General Store & Post Office
+366 # Hillcrest Tourist Park
+368 # King Island Motors
+370 # J&N Car Care - Triabunna Service Station
+373 # South Spreyton Store
+377 # Valley Fuel (unmanned site)
+378 # Ampol Cradle Mountain
+379 # Kalangadoo Store
+381 # Stanley Supermarket
+383 # Waratah Roadhouse
+384 # Peninsula Hardware
+385 # Flinders Island Fuel
+386 # Westerway Roadhouse
+395 # The Hungry Wombat Cafe
+398 # Xpress eats
+401 # THE OPOSSUM BAY STORE
+403 # Bothwell SuperStore
+407 # South Arm Store
+408 # Sidmouth service station
+412 # Pipers River General Store
+413 # Scamander Supermarket
+20007 # Adventure Bay General Store
+20012 # Marrawah General Store
+20017 # GO Camdale 24/7
+20038 # FTR primrose sands servo
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

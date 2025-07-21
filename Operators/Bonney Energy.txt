@@ -1,0 +1,10 @@
+63 # Lowes Bp Devonport (Quoiba) Opt
+72 # Lowes BP Triabunna OPT(unmanned)
+160 # Independent Tas Petroleum Smithton (Unmanned)
+382 # Ampol BENNETTS PETROLEUM Cambridge - Unmanned
+20033 # Bonney Energy Deloraine
+20034 # Bonney Energy Invermay
+20037 # Bonney Energy Bell Bay
+20039 # Bonney Energy Legerwood
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

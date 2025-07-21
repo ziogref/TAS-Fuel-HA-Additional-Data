@@ -1,0 +1,27 @@
+4 # BP Brighton
+5 # BP Brooker
+6 # BP Cambridge
+7 # BP Devonport
+8 # BP Hobart Airport
+9 # BP Huonville
+10 # BP Kingston Tas
+11 # BP Launceston
+12 # BP Lindisfarne
+13 # BP Margate
+14 # BP Moonah
+15 # BP Newnham
+16 # BP North Terrace
+17 # BP Riverside
+18 # BP St Helens
+19 # BP Ulverstone
+114 # BP Oatlands
+116 # BP Strahan
+118 # BP Cygnet
+193 # BP Service Station
+196 # BP Claremont
+215 # BP Deloraine
+216 # BP Mahoneys Bp Rosebery
+233 # BP Youngtown (with 24 hour payment)
+375 # BP TARLETON STREET
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

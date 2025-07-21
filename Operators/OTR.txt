@@ -1,0 +1,18 @@
+44 # Coles Express Blackmans Bay
+45 # Coles Express Brighton
+46 # Coles Express Devonport
+47 # Coles Express Glenorchy
+48 # Coles Express Hobart
+49 # Coles Express Howrah
+50 # Coles Express Invermay
+51 # Coles Express Launceston
+52 # Coles Express Launceston Bathurst St
+53 # Coles Express Moonah
+54 # Coles Express New Norfolk
+55 # Coles Express Newstead
+56 # Coles Express Sandy Bay
+57 # Coles Express Smithton
+58 # Coles Express Sorell
+20035 # OTR Devonport Formby Road
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

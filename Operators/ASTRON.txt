@@ -1,0 +1,14 @@
+101 # Astron Scottsdale Ufill
+151 # Astron Bothwell Roadhouse
+389 # Astron New Norfolk
+410 # Astron
+20002 # Astron East Devonport
+20006 # Astron West Ulverstone
+20011 # Astron Zeehan
+20014 # United Geeveston
+20023 # Astron Triabunna
+20029 # Astron Wentworth
+20031 # Astron Ridgley Roadhouse
+20041 # Astron Sheffield
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

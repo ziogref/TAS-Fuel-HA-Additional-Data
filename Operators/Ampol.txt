@@ -1,0 +1,44 @@
+20 # Ampol Hill Street Lauderdale
+22 # Ampol Foodary Eastlands
+23 # Ampol Foodary Glenorchy
+24 # Ampol Hobart Macquarie St
+25 # Ampol Hobart South
+26 # U- Go Lindisfarne (Self-Serve)
+27 # Ampol Foodary Midway Point
+28 # Ampol Foodary New Town
+29 # Ampol Foodary Sandy Bay
+123 # AMPOL OUSE
+124 # Ampol Westbury
+125 # Ampol Campbell Town
+126 # Ampol Campbell Town South
+127 # Ampol East Devonport
+128 # Ampol Exeter
+129 # Ampol Georgetown
+130 # Ampol Glen Dhu
+132 # Ampol Invermay(Unmanned)
+133 # Ampol Longford
+135 # Ampol Penguin
+137 # Ampol Sheffield
+138 # Ampol Smithton
+139 # Ampol Spreyton
+141 # Ampol William Street
+142 # Ampol Wivenhoe
+144 # Ampol Brooker
+146 # Ampol Sorell Service Station
+189 # Ampol Montrose
+220 # Ampol Terrylands Service Station
+227 # Ampol Carrick
+239 # Ampol Ulverstone
+374 # Ampol Richmond
+380 # Ampol Epping Forest
+20005 # Ampol Stony Rise
+20008 # Ampol Westbury
+20009 # Ampol Wynyard
+20010 # Ampol Scottsdale
+20018 # AMPOL SASSAFRAS
+20027 # Ampol Queenstown
+20032 # Ampol Colebrook
+20040 # Ampol Somerset
+20042 # Ampol Bangalee Store
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

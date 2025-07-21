@@ -1,0 +1,21 @@
+177 # Ampol MOOD FOOD Huonville
+178 # Ampol BENNETTS PETROLEUM Snug
+179 # Ampol MOOD FOOD Moonah
+180 # Ampol MOOD FOOD Rokeby
+181 # Ampol MOOD FOOD Claremont
+182 # Ampol MOOD FOOD New Norfolk
+183 # Ampol MOOD FOOD Kempton
+184 # Ampol BENNETTS PETROLEUM Lenah Valley
+185 # Ampol MOOD FOOD Grand Central
+186 # Ampol BENNETTS PETROLEUM Swansea
+187 # Ampol MOOD FOOD MILK BAR Regent Street
+235 # Ampol BENNETTS PETROLEUM Copping Roadhouse
+390 # BENNETTS PETROLEUM Bagdad - Unmanned
+391 # BENNETTS PETROLEUM Huonville - Unmanned
+392 # BENNETTS PETROLEUM Geeveston - Unmanned
+394 # BENNETTS PETROLEUM Triabunna Marina - Unmanned
+404 # Ampol BENNETTS PETROLEUM Kempton - Unmanned
+20020 # Ampol MOOD FOOD Latrobe
+20021 # Ampol MOOD FOOD Burnie
+
+## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case
