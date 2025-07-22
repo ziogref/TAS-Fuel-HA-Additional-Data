@@ -1,14 +1,10 @@
 74 # United Beaconsfield
 76 # United Bicheno
 77 # United Burnie
-78 # United Camdale Ufill
 79 # United Claremont
-80 # United Devonport
 84 # United Exeter
 85 # United Gagebrook
-86 # United George Town Central
 87 # United Hagley Ufill
-88 # United Hamilton Ufill
 89 # United Kingston
 90 # United Latrobe
 91 # United Legana
@@ -27,14 +23,14 @@
 106 # United Sorell
 107 # United St Helens
 108 # United Tasman
-109 # United Ulverstone Ufill
 111 # United Wynyard
 212 # United Bridgewater
-213 # United Launceston Breadalbane
 214 # United York Park
-253 # VEER Tas United Wivenhoe Service Station With RACT Fuel Discount
+253 # VEER Tas United Wivenhoe Service Station
 362 # United Brighton
-406 # Georgetown-ufill (unmanned)
 20013 # United Elizabeth Town
+389# Astron New Norfolk
+20031# Astron Ridgley Roadhouse
+20041# Astron Sheffield
 
 ## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case
