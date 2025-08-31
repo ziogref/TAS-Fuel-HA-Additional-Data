@@ -7,6 +7,8 @@
 #Confirmed by Humans that DO NOT have Tyre Air Facilities
 #367 #Shell Tas Petroleum Cambridge (unmanned)
 #26 #U- Go Lindisfarne (Self-Serve) 20% - most likely doesnt have it
+#211 #Tas Petroleum Moonah (unmanned)
+
 
 #Confirmed Stations with Tyre Air Facilities (AI)
 5 #BP Brooker
@@ -109,7 +111,6 @@
 #169 #Shell Tas Petroleum East Devonport(Unmanned)
 #170 #Shell Tas Petroleum Scottsdale (Unmanned)
 #171 #Shell Tas Petroleum Westbury (Unmanned)
-#211 #Tas Petroleum Moonah (unmanned)
 #372 #Tas Petroleum St Helens (Unmanned)
 #377 #Valley Fuel (unmanned site)
 #382 #Ampol BENNETTS PETROLEUM Cambridge - Unmanned
