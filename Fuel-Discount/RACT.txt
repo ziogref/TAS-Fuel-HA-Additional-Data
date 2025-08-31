@@ -28,6 +28,7 @@
 20008 #Bonney Energy Westbury
 20009 #Bonney Energy Wynyard
 20010 #Bonney Energy Scottsdale
+20022 #Mood Food Moonah
 20027 #Ampol Queenstown
 20033 #Bonney Energy Deloraine Diesel Stop
 20034 #Bonney Energy Launceston
@@ -40,7 +41,6 @@
 #187 #Mood Food Latrobe
 #188 #Mood Food Huonville
 #20011 #Bonney Energy Highclere
-#20022 #Mood Food Moonah
 #20023 #Mood Food Milk Bar Sandy Bay
 
 #All Information was gathered by Google Gemini.
