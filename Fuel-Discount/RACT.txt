@@ -6,7 +6,6 @@
 186 #Bennett's Petroleum Swansea
 20021 #Mood Food Burnie
 235 #Bennett's Petroleum Copping Roadhouse
-382 #Bennett's Petroleum Cambridge
 178 #Bennett's Petroleum Snug
 125 #Ampol Campbell Town
 127 #Ampol East Devonport
@@ -33,6 +32,7 @@
 20033 #Bonney Energy Deloraine Diesel Stop
 20034 #Bonney Energy Launceston
 20037 #Bonney Energy Bell Bay
+20059 #Ampol MOOD FOOD Cambridge
 
 #Coming soon
 #136 #Bonney Energy Sassafras

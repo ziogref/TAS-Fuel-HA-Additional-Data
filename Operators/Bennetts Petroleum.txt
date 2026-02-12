@@ -17,5 +17,6 @@
 404 # Ampol BENNETTS PETROLEUM Kempton - Unmanned
 20020 # Ampol MOOD FOOD Latrobe
 20021 # Ampol MOOD FOOD Burnie
+20059 #Ampol MOOD FOOD Cambridge
 
 ## NOTE!! this list was compiled by Gemini and is possibly incorrect. Please submit a pull request if this is the case

@@ -89,9 +89,9 @@
 37 #EG Ampol Legana
 38 #EG Ampol Mowbray
 Puma Energy New Town #Puma Energy New Town
-382 #Ampol BENNETTS PETROLEUM Cambridge - Unmanned
 404 #Ampol BENNETTS PETROLEUM Kempton - Unmanned
 391 #BENNETTS PETROLEUM Huonville - Unmanned
 390 #BENNETTS PETROLEUM Bagdad - Unmanned
 392 #BENNETTS PETROLEUM Geeveston - Unmanned
 394 #BENNETTS PETROLEUM Triabunna Marina - Unmanned
+20059 #Ampol MOOD FOOD Cambridge - Unmanned but also has as store front

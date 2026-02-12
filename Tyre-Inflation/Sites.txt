@@ -3,6 +3,7 @@
 25 #Ampol Hobart South
 10 #BP Kingston Tas
 33 #EG Ampol Howrah
+20059 #Ampol MOOD FOOD Cambridge
 
 #Confirmed by Humans that DO NOT have Tyre Air Facilities
 #367 #Shell Tas Petroleum Cambridge (unmanned)
@@ -113,7 +114,6 @@
 #171 #Shell Tas Petroleum Westbury (Unmanned)
 #372 #Tas Petroleum St Helens (Unmanned)
 #377 #Valley Fuel (unmanned site)
-#382 #Ampol BENNETTS PETROLEUM Cambridge - Unmanned
 #388 #Tas Petroleum Connector Park (Unmanned)
 #390 #BENNETTS PETROLEUM Bagdad - Unmanned
 #391 #BENNETTS PETROLEUM Huonville - Unmanned
